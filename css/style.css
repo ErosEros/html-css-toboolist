@@ -33,3 +33,30 @@ img {
 /* <!-- / HEADER --> */
 
 
+/* MAIN */
+ 
+/* Section-1 */
+
+.section-1 {
+    border-bottom: 1px solid #d3d7db;
+   padding-top: 10px;
+    height: 50px;
+}
+
+.button-1 {
+    padding: 5px 5px;
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 7%;
+}
+
+.button-2 {
+    padding: 5px 5px;
+    border: 1px solid #e0e3e6;
+    background-color: white;
+    color: #d3d7db;
+    border-radius: 8%;
+}
+
+/* / Section-1 */
