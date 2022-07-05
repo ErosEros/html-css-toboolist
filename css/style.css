@@ -43,6 +43,7 @@ main  {
     width: 800px;
     margin: 30px auto;
     background-color: white;
+    padding-bottom: 20px;
 }
 
 
@@ -159,7 +160,7 @@ ul {
 
 /* / SECTION-4 */
 
-/* ALL SECTION */
+/* ALL SECTION + MARGIN LI */
 .section-1 {
    padding-left: 50px; 
    padding-bottom: 45px;
@@ -169,4 +170,8 @@ ul {
     padding-left: 50px;
     padding-top: 35px;
 }
-/* / ALL SECTION-4 */
+
+li {
+    margin-bottom: 20px;
+}
+/* / ALL SECTION + MARGIN LI */
