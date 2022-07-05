@@ -1,0 +1,35 @@
+/* CSS RESET */
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+ background-color:#f6f8f9 ;
+}
+
+/* CSS RESET */
+
+/* <!-- HEADER --> */
+ 
+header {
+    position: relative;
+    background-color: white;
+    height:70px;
+}
+
+img {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.title {
+    display: inline-block;
+    position: absolute;
+    margin-top: 20px;
+}
+/* <!-- / HEADER --> */
+
+
