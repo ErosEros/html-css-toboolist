@@ -122,6 +122,7 @@ ul {
 
 }
 /* / X */
+
 .recruiting {
     padding: 5px 5px;
     border: none;
@@ -129,17 +130,43 @@ ul {
     color: white;
     border-radius: 10px;
 }
+
+.mobile {
+    padding: 5px 5px;
+    border: none;
+    background-color: #f29e33;
+    color: white;
+    border-radius: 10px;
+}
 /* / SECTION-3 */
 
+/* SECTION-4 */
+.website {
+    padding: 5px 5px;
+    border: none;
+    background-color: #d863a1;
+    color: white;
+    border-radius: 10px;
+}
 
+.sales {
+    padding: 5px 5px;
+    border: none;
+    background-color: #b2ca2b;
+    color: white;
+    border-radius: 10px;
+}
 
+/* / SECTION-4 */
+
+/* ALL SECTION */
 .section-1 {
    padding-left: 50px; 
    padding-bottom: 45px;
 }
 
-.section-2, .section-3 {
+.section-2, .section-3, .section-4 {
     padding-left: 50px;
     padding-top: 35px;
 }
-
+/* / ALL SECTION-4 */
